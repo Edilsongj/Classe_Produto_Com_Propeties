@@ -48,7 +48,3 @@ Este exercício ajuda a reforçar conceitos de:
 Encapsulamento e validação com get e set
 
 Propriedades personalizadas (get => ...)
-
-Formatação de saída no console
-
-Uso do Console.ForegroundColor e Console.ResetColor
